@@ -1,1 +1,1 @@
-this it test merger command
+conflict test
